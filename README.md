@@ -108,3 +108,7 @@ Cost-sensitive learning is a subfield of machine learning that takes the costs o
 errors (and potentially other costs) into account when training a machine learning model. It is
 a field of study that is closely related to the field of imbalanced learning that is concerned with
 classification on datasets with a skewed class distribution.
+
+
+# 4. Results
+
