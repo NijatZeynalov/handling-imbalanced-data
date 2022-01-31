@@ -5,7 +5,7 @@ severely skewed class distribution. This is the cause for poor performance with 
 machine learning models and evaluation metrics that assume a balanced class distribution.
 
 As a dataset, I have used Credit Card Fraud Detection
-from Kaggle https://www.kaggle.com/mlg-ulb/creditcardfraud where our purpose is to determine fraudulent credit card transactions. 
+from Kaggle https://www.kaggle.com/mlg-ulb/creditcardfraud where our purpose is to determine fraudulent credit card transactions.  The dataset is highly unbalanced, the positive class (frauds) account for 0.172% of all transactions.
 
 __img__
 
