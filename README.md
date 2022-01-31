@@ -25,7 +25,7 @@ As a evaluation metric I am using __balanced_accuracy_score, roc_auc_score, geom
 
 
 
-## 1. Data Sampling Methods
+# 1. Data Sampling Methods
 
 In order to avoid these problems I have used a few approaches that work with imbalanced datasets. Data sampling provides a collection of techniques that transform a training dataset in
 order to balance or better balance the class distribution. lthough often described in terms of two-class classification problems, class imbalance also
