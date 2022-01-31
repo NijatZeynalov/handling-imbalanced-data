@@ -6,6 +6,8 @@ machine learning models and evaluation metrics that assume a balanced class dist
 
 In order to avoid these problems I have used a few approaches that work with imbalanced datasets.
 
+__img__
+
 # Evaluation
 
 Firstly, because most of the standard
@@ -112,3 +114,4 @@ classification on datasets with a skewed class distribution.
 
 # 4. Results
 
+__img__
