@@ -7,7 +7,8 @@ machine learning models and evaluation metrics that assume a balanced class dist
 As a dataset, I have used Credit Card Fraud Detection
 from Kaggle https://www.kaggle.com/mlg-ulb/creditcardfraud where our purpose is to determine fraudulent credit card transactions.  The dataset is highly unbalanced, the positive class (frauds) account for 0.172% of all transactions.
 
-__img__
+![](https://raw.githubusercontent.com/NijatZeynalov/handling-imbalanced-data/main/graphs/7796AB35-FCF6-4A4D-9CFC-0D13D42BF42E.png)
+
 
 # Evaluation
 
@@ -115,4 +116,5 @@ classification on datasets with a skewed class distribution.
 
 # 4. Results
 
-__img__
+![](https://raw.githubusercontent.com/NijatZeynalov/handling-imbalanced-data/main/graphs/B35B9163-1D70-439E-8193-AFD19F084EBB.jpeg)
+
